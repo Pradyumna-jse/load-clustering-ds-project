@@ -1,0 +1,9 @@
+{
+    "name": "loads-clustering",
+    "version": "1.0.0",
+    "description": "Clustering and plotting of commercial load data",
+    "scripts": {
+        "dev": "streamlit run dashboard.py"
+    },
+    "dependencies": {}
+}
